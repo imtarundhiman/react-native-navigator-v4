@@ -12,6 +12,6 @@ npm i react-navigation-material-bottom-tabs
 npm i react-native-paper
 npm i react-navigation-drawer
 npm i --save react-native-reanimated@1.13.3
-
+npm i redux react-redux
 
 npm start --clear
