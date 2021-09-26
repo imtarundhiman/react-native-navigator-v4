@@ -1,0 +1,17 @@
+expo install react-navigation-header-buttons@6
+npm i --save @react-navigation/native
+npm i --save @expo/vector-icons
+npm i --save react-native-screens
+npm i --save expo-font
+npm i --save expo-app-loading
+expo install react-native-screens
+npm i react-navigation
+npm i react-navigation-stack
+npm i react-navigation-tabs
+npm i react-navigation-material-bottom-tabs
+npm i react-native-paper
+npm i react-navigation-drawer
+npm i --save react-native-reanimated@1.13.3
+
+
+npm start --clear
